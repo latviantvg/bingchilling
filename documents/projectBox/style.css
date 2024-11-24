@@ -1,0 +1,89 @@
+h1 {
+
+    text-align: center;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+    margin: auto;
+}
+
+h2 {
+
+    text-align: center;
+    font-family: "Comic Sans MS", serif;
+    color: black;
+    font-size: medium;
+    margin: auto;
+}
+
+body {
+
+    background-image: url("pictures/darkppp.gif");
+    background-repeat: round;
+
+}
+
+.column {
+
+    width: 24.55%;
+    padding: 5px;
+
+}
+
+.construction {
+
+    scale: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.row {
+
+    display: inline-flex;
+
+}
+
+.spinner {
+
+    width: 100%;
+
+}
+
+.constructiontext {
+
+    font-size: 3.1vmin;
+    text-align: center;
+
+}
+
+.centerthatbitch {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.centerthatbitch-next {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a {
+    text-align: center;
+    font-family: "Comic Sans MS", serif;
+    color: aliceblue;
+
+}
+
+h3 {
+
+    text-align: center;
+    font-family: "Comic Sans MS", serif;
+    color: aliceblue;
+    scale: 50%;
+}

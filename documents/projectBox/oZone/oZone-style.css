@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'roobert_trialregular';
+    src: url('../../fonts-oZone/rooberttrial-regular-webfont.woff2') format('woff2'),
+    url('../../fonts-oZone/rooberttrial-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'roobert_trialbold';
+    src: url('../../fonts-oZone/rooberttrial-bold-webfont.woff2') format('woff2'),
+    url('../../fonts-oZone/rooberttrial-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'roobert_triallight';
+    src: url('../../fonts-oZone/rooberttrial-light-webfont.woff2') format('woff2'),
+    url('../../fonts-oZone/rooberttrial-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+
+    font-family: roobert_trialbold, sans-serif;
+    font-weight: bold;
+
+}
+
+h2 {
+
+    font-family: roobert_trialregular, sans-serif;
+
+}
+
+h3 {
+
+    font-family: roobert_triallight, sans-serif;
+}
